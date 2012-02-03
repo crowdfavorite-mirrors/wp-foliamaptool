@@ -1,0 +1,51 @@
+﻿.api_error {
+	background-color: #ffebe8;
+	border-color: #c00;
+}
+
+.api_ok {
+	background-color: #ccff99;
+	border-color: #669900;
+}
+
+.api_error, .api_ok {
+	border-width: 1px;
+	border-style: solid;
+	padding: 0 3px;
+	margin: 5px 5px 2px;
+}
+
+.foliamaptool-poweredby {
+	font-size: 8pt;
+}
+
+.foliamaptool-plugin-update {
+	line-height: 29px;
+	font-size: 12px;
+	text-align: center;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-top-width: 1px;
+	border-top-style: solid;
+	background-color: #ffebe8;
+	border-bottom-color: #ccc;
+	border-top-color: #ccc;
+	color: #555;
+}
+
+.foliamaptool-plugin-update a {
+	font-size: 1.1em;
+}
+
+/* Jquery dialog boxes */
+.ui-dialog {
+	background-color: white;
+	border: 1px solid black;
+}
+
+.ui-dialog-titlebar {
+	background-color: lightgray;
+	text-align: center;
+	padding: 3px 3px 3px 3px;
+}
+
